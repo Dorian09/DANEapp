@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">DANE</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_cedula">Cedula</string>
+    <string name="txt_estrato">Estrato</string>
+    <string name="txt_salario">Salario</string>
+    <string name="txt_educacion">Educacion</string>
+    <string name="educacion_bachillerato">Bachillerato</string>
+    <string name="educacion_pregado">Pregrado</string>
+    <string name="educacion_maestria">Maestria</string>
+    <string name="educacion_doctorado">Doctorado</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_cancelar">Cancelar</string>
+    <string name="btn_buscar">Buscar</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="btn_buscarPersona">Buscar Personas</string>
+    <string name="btn_ListarPersonas">Listar Personas</string>
+    <string name="modificar_registro">Modificar Registro</string>
+    <string name="borrar_registro">Borrar Registro</string>
+    <string name="error">Elemento Invalido</string>
+</resources>
